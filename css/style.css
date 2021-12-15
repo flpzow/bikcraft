@@ -10,12 +10,20 @@
 /* Header */
 @import url(./global/header.css);
 
+/* Footer */
+@import url(./global/footer.css);
+
 /* Home */
 @import url(./home/introducao.css);
 @import url(./home/tecnologia.css);
+@import url(./home/parceiros.css);
+@import url(./home/depoimento.css);
 
 /* Utilidades */
 @import url(./utilidades/componentes.css);
 
 /* Bicicletas */
 @import url(./bicicletas/bicicletas-lista.css);
+
+/* Seguros */
+@import url(./seguros/seguros.css);
