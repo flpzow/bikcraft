@@ -7,6 +7,9 @@
 /* Cores Globais */
 @import url(./utilidades/cores.css);
 
+/* Animação */
+@import url(./utilidades/animacao.css);
+
 /* Header */
 @import url(./global/header.css);
 
